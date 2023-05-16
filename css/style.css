@@ -1,0 +1,32 @@
+
+*{
+    font-family: "YekanBakhMedium" ;
+}
+body{
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.mobile-nav li a{
+    padding: 15px;
+    color: white;
+}
+.mobile-nav li a:hover{
+    color: #198754;
+    border-bottom: 1px solid #198754;
+}
+.sm-nav li a{
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+}
+.sm-nav li a:hover{
+    color: #198754;
+    border-bottom: 1px solid #198754;
+}
+.main{
+    margin-bottom: 75px;
+}
+#contact{
+    margin-top: 40px;
+}
